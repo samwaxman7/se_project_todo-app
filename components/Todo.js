@@ -49,8 +49,6 @@ class Todo {
 
     todoNameEl.textContent = this._name;
 
-    const dueDate = new Date(this._date);
-
     this._generateCheckboxEl();
     this._setEventListeners();
     this._setDudeDate();
