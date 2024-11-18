@@ -4,7 +4,7 @@ This is an app that allows you to make a Todo list. For each Todo there is a tod
 
 ## Functionality
 
-The main functionality of this project is the use of OOP. This project's purpose was refactoring code to OOP. This was done in the Todo Class and the FormValidator Class in their own Javascript files. Which were then imported into index.js.
+The main functionality of this project is the use of OOP. This project's purpose was mainly refactoring to use OOP. Specifically this uses loosely coupled classes which gives the code more flexibility.
 
 ## Technology
 
@@ -14,6 +14,9 @@ The main functionality of this project is the use of OOP. This project's purpose
 
 -private variables/functions
 ![Shows the use of this._ to access variables privately in the same class](./images/demo/OOP.png)
+
+-Loosely Coupled Classes
+![Shows the use of this._ to access variables privately in the same class](./images/demo/Loose-Coupling.png)
 
 ## Deployment
 
